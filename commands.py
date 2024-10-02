@@ -6,3 +6,6 @@
 
 # adds files to git tracking
 'git add <file name> or git add . to track everything at once'
+
+# commits changes
+'git commit -m <message here>'
