@@ -9,3 +9,6 @@
 
 # commits changes
 'git commit -m <message here>'
+
+# pushes up to the remote repo
+'git push'
