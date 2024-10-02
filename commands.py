@@ -12,3 +12,6 @@
 
 # pushes up to the remote repo
 'git push'
+
+# create a new branch
+'git checkout -b <branch name>'
